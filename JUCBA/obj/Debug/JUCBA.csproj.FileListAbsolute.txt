@@ -1,0 +1,459 @@
+D:\Downloads\JUCBA\JUCBA\bin\JUCBA.dll.config
+D:\Downloads\JUCBA\JUCBA\bin\JUCBA.dll
+D:\Downloads\JUCBA\JUCBA\bin\JUCBA.pdb
+D:\Downloads\JUCBA\JUCBA\bin\roslyn\csc.exe
+D:\Downloads\JUCBA\JUCBA\bin\roslyn\csc.exe.config
+D:\Downloads\JUCBA\JUCBA\bin\roslyn\csc.rsp
+D:\Downloads\JUCBA\JUCBA\bin\roslyn\csi.exe
+D:\Downloads\JUCBA\JUCBA\bin\roslyn\csi.exe.config
+D:\Downloads\JUCBA\JUCBA\bin\roslyn\csi.rsp
+D:\Downloads\JUCBA\JUCBA\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Downloads\JUCBA\JUCBA\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Downloads\JUCBA\JUCBA\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Downloads\JUCBA\JUCBA\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Downloads\JUCBA\JUCBA\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Downloads\JUCBA\JUCBA\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Downloads\JUCBA\JUCBA\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Downloads\JUCBA\JUCBA\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Downloads\JUCBA\JUCBA\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Downloads\JUCBA\JUCBA\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Downloads\JUCBA\JUCBA\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Downloads\JUCBA\JUCBA\bin\roslyn\System.AppContext.dll
+D:\Downloads\JUCBA\JUCBA\bin\roslyn\System.Collections.Immutable.dll
+D:\Downloads\JUCBA\JUCBA\bin\roslyn\System.Console.dll
+D:\Downloads\JUCBA\JUCBA\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Downloads\JUCBA\JUCBA\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Downloads\JUCBA\JUCBA\bin\roslyn\System.IO.Compression.dll
+D:\Downloads\JUCBA\JUCBA\bin\roslyn\System.IO.FileSystem.dll
+D:\Downloads\JUCBA\JUCBA\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Downloads\JUCBA\JUCBA\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Downloads\JUCBA\JUCBA\bin\roslyn\System.IO.Pipes.dll
+D:\Downloads\JUCBA\JUCBA\bin\roslyn\System.Reflection.Metadata.dll
+D:\Downloads\JUCBA\JUCBA\bin\roslyn\System.Security.AccessControl.dll
+D:\Downloads\JUCBA\JUCBA\bin\roslyn\System.Security.Claims.dll
+D:\Downloads\JUCBA\JUCBA\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Downloads\JUCBA\JUCBA\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Downloads\JUCBA\JUCBA\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Downloads\JUCBA\JUCBA\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Downloads\JUCBA\JUCBA\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Downloads\JUCBA\JUCBA\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Downloads\JUCBA\JUCBA\bin\roslyn\System.ValueTuple.dll
+D:\Downloads\JUCBA\JUCBA\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Downloads\JUCBA\JUCBA\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Downloads\JUCBA\JUCBA\bin\roslyn\System.Xml.XPath.dll
+D:\Downloads\JUCBA\JUCBA\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Downloads\JUCBA\JUCBA\bin\roslyn\vbc.exe
+D:\Downloads\JUCBA\JUCBA\bin\roslyn\vbc.exe.config
+D:\Downloads\JUCBA\JUCBA\bin\roslyn\vbc.rsp
+D:\Downloads\JUCBA\JUCBA\bin\roslyn\VBCSCompiler.exe
+D:\Downloads\JUCBA\JUCBA\bin\roslyn\VBCSCompiler.exe.config
+D:\Downloads\JUCBA\JUCBA\bin\Antlr3.Runtime.dll
+D:\Downloads\JUCBA\JUCBA\bin\EntityFramework.dll
+D:\Downloads\JUCBA\JUCBA\bin\EntityFramework.SqlServer.dll
+D:\Downloads\JUCBA\JUCBA\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Downloads\JUCBA\JUCBA\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Downloads\JUCBA\JUCBA\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Downloads\JUCBA\JUCBA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Downloads\JUCBA\JUCBA\bin\Microsoft.Owin.dll
+D:\Downloads\JUCBA\JUCBA\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Downloads\JUCBA\JUCBA\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Downloads\JUCBA\JUCBA\bin\Microsoft.Owin.Security.dll
+D:\Downloads\JUCBA\JUCBA\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Downloads\JUCBA\JUCBA\bin\Microsoft.Owin.Security.Google.dll
+D:\Downloads\JUCBA\JUCBA\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Downloads\JUCBA\JUCBA\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Downloads\JUCBA\JUCBA\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Downloads\JUCBA\JUCBA\bin\Microsoft.Web.Infrastructure.dll
+D:\Downloads\JUCBA\JUCBA\bin\Newtonsoft.Json.dll
+D:\Downloads\JUCBA\JUCBA\bin\Owin.dll
+D:\Downloads\JUCBA\JUCBA\bin\System.Web.Helpers.dll
+D:\Downloads\JUCBA\JUCBA\bin\System.Web.Mvc.dll
+D:\Downloads\JUCBA\JUCBA\bin\System.Web.Optimization.dll
+D:\Downloads\JUCBA\JUCBA\bin\System.Web.Razor.dll
+D:\Downloads\JUCBA\JUCBA\bin\System.Web.WebPages.Deployment.dll
+D:\Downloads\JUCBA\JUCBA\bin\System.Web.WebPages.dll
+D:\Downloads\JUCBA\JUCBA\bin\System.Web.WebPages.Razor.dll
+D:\Downloads\JUCBA\JUCBA\bin\WebGrease.dll
+D:\Downloads\JUCBA\JUCBA\bin\System.Web.Helpers.xml
+D:\Downloads\JUCBA\JUCBA\bin\System.Web.Mvc.xml
+D:\Downloads\JUCBA\JUCBA\bin\System.Web.Optimization.xml
+D:\Downloads\JUCBA\JUCBA\bin\System.Web.Razor.xml
+D:\Downloads\JUCBA\JUCBA\bin\System.Web.WebPages.xml
+D:\Downloads\JUCBA\JUCBA\bin\System.Web.WebPages.Deployment.xml
+D:\Downloads\JUCBA\JUCBA\bin\System.Web.WebPages.Razor.xml
+D:\Downloads\JUCBA\JUCBA\bin\Newtonsoft.Json.xml
+D:\Downloads\JUCBA\JUCBA\bin\Antlr3.Runtime.pdb
+D:\Downloads\JUCBA\JUCBA\bin\EntityFramework.xml
+D:\Downloads\JUCBA\JUCBA\bin\EntityFramework.SqlServer.xml
+D:\Downloads\JUCBA\JUCBA\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Downloads\JUCBA\JUCBA\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Downloads\JUCBA\JUCBA\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Downloads\JUCBA\JUCBA\bin\Microsoft.Owin.xml
+D:\Downloads\JUCBA\JUCBA\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Downloads\JUCBA\JUCBA\bin\Microsoft.Owin.Security.xml
+D:\Downloads\JUCBA\JUCBA\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Downloads\JUCBA\JUCBA\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Downloads\JUCBA\JUCBA\bin\Microsoft.Owin.Security.Google.xml
+D:\Downloads\JUCBA\JUCBA\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Downloads\JUCBA\JUCBA\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Downloads\JUCBA\JUCBA\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Downloads\JUCBA\JUCBA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Downloads\JUCBA\JUCBA\obj\Debug\JUCBA.csprojAssemblyReference.cache
+D:\Downloads\JUCBA\JUCBA\obj\Debug\JUCBA.csproj.CoreCompileInputs.cache
+D:\Downloads\JUCBA\JUCBA\obj\Debug\JUCBA.csproj.CopyComplete
+D:\Downloads\JUCBA\JUCBA\obj\Debug\JUCBA.dll
+D:\Downloads\JUCBA\JUCBA\obj\Debug\JUCBA.pdb
+D:\Downloads\JUCBA\JUCBA\bin\JUCBA.Core.dll
+D:\Downloads\JUCBA\JUCBA\bin\JUCBA.Data.dll
+D:\Downloads\JUCBA\JUCBA\bin\JUCBA.Logic.dll
+D:\Downloads\JUCBA\JUCBA\bin\JUCBA.Core.pdb
+D:\Downloads\JUCBA\JUCBA\bin\JUCBA.Core.dll.config
+D:\Downloads\JUCBA\JUCBA\bin\JUCBA.Data.pdb
+D:\Downloads\JUCBA\JUCBA\bin\JUCBA.Logic.pdb
+D:\Downloads\JUCBA\JUCBA\bin\roslyn\vcsc.exe
+D:\Downloads\JUCBA\JUCBA\bin\roslyn\vcsc.ico
+D:\Alienware\JUCBA\JUCBA\bin\JUCBA.dll.config
+D:\Alienware\JUCBA\JUCBA\bin\JUCBA.dll
+D:\Alienware\JUCBA\JUCBA\bin\JUCBA.pdb
+D:\Alienware\JUCBA\JUCBA\bin\roslyn\csc.rsp
+D:\Alienware\JUCBA\JUCBA\bin\roslyn\csi.rsp
+D:\Alienware\JUCBA\JUCBA\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Alienware\JUCBA\JUCBA\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Alienware\JUCBA\JUCBA\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Alienware\JUCBA\JUCBA\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Alienware\JUCBA\JUCBA\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Alienware\JUCBA\JUCBA\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Alienware\JUCBA\JUCBA\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Alienware\JUCBA\JUCBA\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Alienware\JUCBA\JUCBA\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Alienware\JUCBA\JUCBA\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Alienware\JUCBA\JUCBA\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Alienware\JUCBA\JUCBA\bin\roslyn\System.AppContext.dll
+D:\Alienware\JUCBA\JUCBA\bin\roslyn\System.Collections.Immutable.dll
+D:\Alienware\JUCBA\JUCBA\bin\roslyn\System.Console.dll
+D:\Alienware\JUCBA\JUCBA\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Alienware\JUCBA\JUCBA\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Alienware\JUCBA\JUCBA\bin\roslyn\System.IO.Compression.dll
+D:\Alienware\JUCBA\JUCBA\bin\roslyn\System.IO.FileSystem.dll
+D:\Alienware\JUCBA\JUCBA\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Alienware\JUCBA\JUCBA\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Alienware\JUCBA\JUCBA\bin\roslyn\System.IO.Pipes.dll
+D:\Alienware\JUCBA\JUCBA\bin\roslyn\System.Reflection.Metadata.dll
+D:\Alienware\JUCBA\JUCBA\bin\roslyn\System.Security.AccessControl.dll
+D:\Alienware\JUCBA\JUCBA\bin\roslyn\System.Security.Claims.dll
+D:\Alienware\JUCBA\JUCBA\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Alienware\JUCBA\JUCBA\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Alienware\JUCBA\JUCBA\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Alienware\JUCBA\JUCBA\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Alienware\JUCBA\JUCBA\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Alienware\JUCBA\JUCBA\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Alienware\JUCBA\JUCBA\bin\roslyn\System.ValueTuple.dll
+D:\Alienware\JUCBA\JUCBA\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Alienware\JUCBA\JUCBA\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Alienware\JUCBA\JUCBA\bin\roslyn\System.Xml.XPath.dll
+D:\Alienware\JUCBA\JUCBA\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Alienware\JUCBA\JUCBA\bin\roslyn\vbc.exe
+D:\Alienware\JUCBA\JUCBA\bin\roslyn\vbc.exe.config
+D:\Alienware\JUCBA\JUCBA\bin\roslyn\vbc.rsp
+D:\Alienware\JUCBA\JUCBA\bin\roslyn\VBCSCompiler.exe
+D:\Alienware\JUCBA\JUCBA\bin\roslyn\VBCSCompiler.exe.config
+D:\Alienware\JUCBA\JUCBA\bin\roslyn\vcsc.exe
+D:\Alienware\JUCBA\JUCBA\bin\roslyn\vcsc.ico
+D:\Alienware\JUCBA\JUCBA\bin\Antlr3.Runtime.dll
+D:\Alienware\JUCBA\JUCBA\bin\EntityFramework.dll
+D:\Alienware\JUCBA\JUCBA\bin\EntityFramework.SqlServer.dll
+D:\Alienware\JUCBA\JUCBA\bin\JUCBA.Core.dll
+D:\Alienware\JUCBA\JUCBA\bin\JUCBA.Data.dll
+D:\Alienware\JUCBA\JUCBA\bin\JUCBA.Logic.dll
+D:\Alienware\JUCBA\JUCBA\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Alienware\JUCBA\JUCBA\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Alienware\JUCBA\JUCBA\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Alienware\JUCBA\JUCBA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Alienware\JUCBA\JUCBA\bin\Microsoft.Owin.dll
+D:\Alienware\JUCBA\JUCBA\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Alienware\JUCBA\JUCBA\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Alienware\JUCBA\JUCBA\bin\Microsoft.Owin.Security.dll
+D:\Alienware\JUCBA\JUCBA\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Alienware\JUCBA\JUCBA\bin\Microsoft.Owin.Security.Google.dll
+D:\Alienware\JUCBA\JUCBA\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Alienware\JUCBA\JUCBA\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Alienware\JUCBA\JUCBA\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Alienware\JUCBA\JUCBA\bin\Microsoft.Web.Infrastructure.dll
+D:\Alienware\JUCBA\JUCBA\bin\Newtonsoft.Json.dll
+D:\Alienware\JUCBA\JUCBA\bin\Owin.dll
+D:\Alienware\JUCBA\JUCBA\bin\System.Web.Helpers.dll
+D:\Alienware\JUCBA\JUCBA\bin\System.Web.Mvc.dll
+D:\Alienware\JUCBA\JUCBA\bin\System.Web.Optimization.dll
+D:\Alienware\JUCBA\JUCBA\bin\System.Web.Razor.dll
+D:\Alienware\JUCBA\JUCBA\bin\System.Web.WebPages.Deployment.dll
+D:\Alienware\JUCBA\JUCBA\bin\System.Web.WebPages.dll
+D:\Alienware\JUCBA\JUCBA\bin\System.Web.WebPages.Razor.dll
+D:\Alienware\JUCBA\JUCBA\bin\WebGrease.dll
+D:\Alienware\JUCBA\JUCBA\bin\JUCBA.Core.pdb
+D:\Alienware\JUCBA\JUCBA\bin\JUCBA.Core.dll.config
+D:\Alienware\JUCBA\JUCBA\bin\JUCBA.Data.pdb
+D:\Alienware\JUCBA\JUCBA\bin\JUCBA.Logic.pdb
+D:\Alienware\JUCBA\JUCBA\bin\System.Web.Helpers.xml
+D:\Alienware\JUCBA\JUCBA\bin\System.Web.Mvc.xml
+D:\Alienware\JUCBA\JUCBA\bin\System.Web.Optimization.xml
+D:\Alienware\JUCBA\JUCBA\bin\System.Web.Razor.xml
+D:\Alienware\JUCBA\JUCBA\bin\System.Web.WebPages.xml
+D:\Alienware\JUCBA\JUCBA\bin\System.Web.WebPages.Deployment.xml
+D:\Alienware\JUCBA\JUCBA\bin\System.Web.WebPages.Razor.xml
+D:\Alienware\JUCBA\JUCBA\bin\Newtonsoft.Json.xml
+D:\Alienware\JUCBA\JUCBA\bin\Antlr3.Runtime.pdb
+D:\Alienware\JUCBA\JUCBA\bin\EntityFramework.xml
+D:\Alienware\JUCBA\JUCBA\bin\EntityFramework.SqlServer.xml
+D:\Alienware\JUCBA\JUCBA\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Alienware\JUCBA\JUCBA\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Alienware\JUCBA\JUCBA\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Alienware\JUCBA\JUCBA\bin\Microsoft.Owin.xml
+D:\Alienware\JUCBA\JUCBA\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Alienware\JUCBA\JUCBA\bin\Microsoft.Owin.Security.xml
+D:\Alienware\JUCBA\JUCBA\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Alienware\JUCBA\JUCBA\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Alienware\JUCBA\JUCBA\bin\Microsoft.Owin.Security.Google.xml
+D:\Alienware\JUCBA\JUCBA\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Alienware\JUCBA\JUCBA\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Alienware\JUCBA\JUCBA\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Alienware\JUCBA\JUCBA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Alienware\JUCBA\JUCBA\obj\Debug\JUCBA.csprojAssemblyReference.cache
+D:\Alienware\JUCBA\JUCBA\obj\Debug\JUCBA.csproj.CopyComplete
+D:\Alienware\JUCBA\JUCBA\obj\Debug\JUCBA.dll
+D:\Alienware\JUCBA\JUCBA\obj\Debug\JUCBA.pdb
+D:\Alienware\JUCBA\JUCBA\bin\roslyn\vcsc.exe.config
+D:\Alienware\JUCBA\JUCBA\bin\roslyn\vcsc.exe.conico
+D:\Alienware\JUCBA\JUCBA\bin\roslyn\vcsi.exe
+D:\Alienware\JUCBA\JUCBA\bin\roslyn\vcsi.exe.config
+D:\Alienware\JUCBA\JUCBA\bin\roslyn\vcsi.exe.conico
+D:\Alienware\JUCBA\JUCBA\bin\roslyn\vcsi.ico
+E:\JUCBA\JUCBA\bin\JUCBA.dll.config
+E:\JUCBA\JUCBA\bin\JUCBA.dll
+E:\JUCBA\JUCBA\bin\JUCBA.pdb
+E:\JUCBA\JUCBA\bin\roslyn\csc.rsp
+E:\JUCBA\JUCBA\bin\roslyn\csi.rsp
+E:\JUCBA\JUCBA\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\JUCBA\JUCBA\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\JUCBA\JUCBA\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\JUCBA\JUCBA\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\JUCBA\JUCBA\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\JUCBA\JUCBA\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\JUCBA\JUCBA\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\JUCBA\JUCBA\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\JUCBA\JUCBA\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\JUCBA\JUCBA\bin\roslyn\Microsoft.Managed.Core.targets
+E:\JUCBA\JUCBA\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\JUCBA\JUCBA\bin\roslyn\System.AppContext.dll
+E:\JUCBA\JUCBA\bin\roslyn\System.Collections.Immutable.dll
+E:\JUCBA\JUCBA\bin\roslyn\System.Console.dll
+E:\JUCBA\JUCBA\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\JUCBA\JUCBA\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\JUCBA\JUCBA\bin\roslyn\System.IO.Compression.dll
+E:\JUCBA\JUCBA\bin\roslyn\System.IO.FileSystem.dll
+E:\JUCBA\JUCBA\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\JUCBA\JUCBA\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\JUCBA\JUCBA\bin\roslyn\System.IO.Pipes.dll
+E:\JUCBA\JUCBA\bin\roslyn\System.Reflection.Metadata.dll
+E:\JUCBA\JUCBA\bin\roslyn\System.Security.AccessControl.dll
+E:\JUCBA\JUCBA\bin\roslyn\System.Security.Claims.dll
+E:\JUCBA\JUCBA\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\JUCBA\JUCBA\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\JUCBA\JUCBA\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\JUCBA\JUCBA\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\JUCBA\JUCBA\bin\roslyn\System.Security.Principal.Windows.dll
+E:\JUCBA\JUCBA\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\JUCBA\JUCBA\bin\roslyn\System.ValueTuple.dll
+E:\JUCBA\JUCBA\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\JUCBA\JUCBA\bin\roslyn\System.Xml.XmlDocument.dll
+E:\JUCBA\JUCBA\bin\roslyn\System.Xml.XPath.dll
+E:\JUCBA\JUCBA\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\JUCBA\JUCBA\bin\roslyn\vbc.exe
+E:\JUCBA\JUCBA\bin\roslyn\vbc.exe.config
+E:\JUCBA\JUCBA\bin\roslyn\vbc.rsp
+E:\JUCBA\JUCBA\bin\roslyn\VBCSCompiler.exe
+E:\JUCBA\JUCBA\bin\roslyn\VBCSCompiler.exe.config
+E:\JUCBA\JUCBA\bin\roslyn\vcsc.exe
+E:\JUCBA\JUCBA\bin\roslyn\vcsc.exe.config
+E:\JUCBA\JUCBA\bin\roslyn\vcsc.exe.conico
+E:\JUCBA\JUCBA\bin\roslyn\vcsc.ico
+E:\JUCBA\JUCBA\bin\roslyn\vcsi.exe
+E:\JUCBA\JUCBA\bin\roslyn\vcsi.exe.config
+E:\JUCBA\JUCBA\bin\roslyn\vcsi.exe.conico
+E:\JUCBA\JUCBA\bin\roslyn\vcsi.ico
+E:\JUCBA\JUCBA\bin\Antlr3.Runtime.dll
+E:\JUCBA\JUCBA\bin\EntityFramework.dll
+E:\JUCBA\JUCBA\bin\EntityFramework.SqlServer.dll
+E:\JUCBA\JUCBA\bin\JUCBA.Core.dll
+E:\JUCBA\JUCBA\bin\JUCBA.Data.dll
+E:\JUCBA\JUCBA\bin\JUCBA.Logic.dll
+E:\JUCBA\JUCBA\bin\Microsoft.AspNet.Identity.Core.dll
+E:\JUCBA\JUCBA\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\JUCBA\JUCBA\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\JUCBA\JUCBA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\JUCBA\JUCBA\bin\Microsoft.Owin.dll
+E:\JUCBA\JUCBA\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\JUCBA\JUCBA\bin\Microsoft.Owin.Security.Cookies.dll
+E:\JUCBA\JUCBA\bin\Microsoft.Owin.Security.dll
+E:\JUCBA\JUCBA\bin\Microsoft.Owin.Security.Facebook.dll
+E:\JUCBA\JUCBA\bin\Microsoft.Owin.Security.Google.dll
+E:\JUCBA\JUCBA\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\JUCBA\JUCBA\bin\Microsoft.Owin.Security.OAuth.dll
+E:\JUCBA\JUCBA\bin\Microsoft.Owin.Security.Twitter.dll
+E:\JUCBA\JUCBA\bin\Microsoft.Web.Infrastructure.dll
+E:\JUCBA\JUCBA\bin\Newtonsoft.Json.dll
+E:\JUCBA\JUCBA\bin\Owin.dll
+E:\JUCBA\JUCBA\bin\System.Web.Helpers.dll
+E:\JUCBA\JUCBA\bin\System.Web.Mvc.dll
+E:\JUCBA\JUCBA\bin\System.Web.Optimization.dll
+E:\JUCBA\JUCBA\bin\System.Web.Razor.dll
+E:\JUCBA\JUCBA\bin\System.Web.WebPages.Deployment.dll
+E:\JUCBA\JUCBA\bin\System.Web.WebPages.dll
+E:\JUCBA\JUCBA\bin\System.Web.WebPages.Razor.dll
+E:\JUCBA\JUCBA\bin\WebGrease.dll
+E:\JUCBA\JUCBA\bin\JUCBA.Core.pdb
+E:\JUCBA\JUCBA\bin\JUCBA.Core.dll.config
+E:\JUCBA\JUCBA\bin\JUCBA.Data.pdb
+E:\JUCBA\JUCBA\bin\JUCBA.Logic.pdb
+E:\JUCBA\JUCBA\bin\System.Web.Helpers.xml
+E:\JUCBA\JUCBA\bin\System.Web.Mvc.xml
+E:\JUCBA\JUCBA\bin\System.Web.Optimization.xml
+E:\JUCBA\JUCBA\bin\System.Web.Razor.xml
+E:\JUCBA\JUCBA\bin\System.Web.WebPages.xml
+E:\JUCBA\JUCBA\bin\System.Web.WebPages.Deployment.xml
+E:\JUCBA\JUCBA\bin\System.Web.WebPages.Razor.xml
+E:\JUCBA\JUCBA\bin\Newtonsoft.Json.xml
+E:\JUCBA\JUCBA\bin\Antlr3.Runtime.pdb
+E:\JUCBA\JUCBA\bin\EntityFramework.xml
+E:\JUCBA\JUCBA\bin\EntityFramework.SqlServer.xml
+E:\JUCBA\JUCBA\bin\Microsoft.AspNet.Identity.Core.xml
+E:\JUCBA\JUCBA\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\JUCBA\JUCBA\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\JUCBA\JUCBA\bin\Microsoft.Owin.xml
+E:\JUCBA\JUCBA\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\JUCBA\JUCBA\bin\Microsoft.Owin.Security.xml
+E:\JUCBA\JUCBA\bin\Microsoft.Owin.Security.Facebook.xml
+E:\JUCBA\JUCBA\bin\Microsoft.Owin.Security.Cookies.xml
+E:\JUCBA\JUCBA\bin\Microsoft.Owin.Security.Google.xml
+E:\JUCBA\JUCBA\bin\Microsoft.Owin.Security.Twitter.xml
+E:\JUCBA\JUCBA\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\JUCBA\JUCBA\bin\Microsoft.Owin.Security.OAuth.xml
+E:\JUCBA\JUCBA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\JUCBA\JUCBA\obj\Debug\JUCBA.csprojAssemblyReference.cache
+E:\JUCBA\JUCBA\obj\Debug\JUCBA.csproj.CopyComplete
+E:\JUCBA\JUCBA\obj\Debug\JUCBA.dll
+E:\JUCBA\JUCBA\obj\Debug\JUCBA.pdb
+C:\Users\JANE ODUM\source\repos\JUCBA\JUCBA\bin\JUCBA.dll.config
+C:\Users\JANE ODUM\source\repos\JUCBA\JUCBA\bin\JUCBA.dll
+C:\Users\JANE ODUM\source\repos\JUCBA\JUCBA\bin\JUCBA.pdb
+C:\Users\JANE ODUM\source\repos\JUCBA\JUCBA\bin\roslyn\csc.rsp
+C:\Users\JANE ODUM\source\repos\JUCBA\JUCBA\bin\roslyn\csi.rsp
+C:\Users\JANE ODUM\source\repos\JUCBA\JUCBA\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\JANE ODUM\source\repos\JUCBA\JUCBA\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\JANE ODUM\source\repos\JUCBA\JUCBA\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\JANE ODUM\source\repos\JUCBA\JUCBA\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\JANE ODUM\source\repos\JUCBA\JUCBA\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\JANE ODUM\source\repos\JUCBA\JUCBA\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\JANE ODUM\source\repos\JUCBA\JUCBA\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\JANE ODUM\source\repos\JUCBA\JUCBA\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\JANE ODUM\source\repos\JUCBA\JUCBA\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\JANE ODUM\source\repos\JUCBA\JUCBA\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\JANE ODUM\source\repos\JUCBA\JUCBA\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\JANE ODUM\source\repos\JUCBA\JUCBA\bin\roslyn\System.AppContext.dll
+C:\Users\JANE ODUM\source\repos\JUCBA\JUCBA\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\JANE ODUM\source\repos\JUCBA\JUCBA\bin\roslyn\System.Console.dll
+C:\Users\JANE ODUM\source\repos\JUCBA\JUCBA\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\JANE ODUM\source\repos\JUCBA\JUCBA\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\JANE ODUM\source\repos\JUCBA\JUCBA\bin\roslyn\System.IO.Compression.dll
+C:\Users\JANE ODUM\source\repos\JUCBA\JUCBA\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\JANE ODUM\source\repos\JUCBA\JUCBA\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\JANE ODUM\source\repos\JUCBA\JUCBA\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\JANE ODUM\source\repos\JUCBA\JUCBA\bin\roslyn\System.IO.Pipes.dll
+C:\Users\JANE ODUM\source\repos\JUCBA\JUCBA\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\JANE ODUM\source\repos\JUCBA\JUCBA\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\JANE ODUM\source\repos\JUCBA\JUCBA\bin\roslyn\System.Security.Claims.dll
+C:\Users\JANE ODUM\source\repos\JUCBA\JUCBA\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\JANE ODUM\source\repos\JUCBA\JUCBA\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\JANE ODUM\source\repos\JUCBA\JUCBA\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\JANE ODUM\source\repos\JUCBA\JUCBA\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\JANE ODUM\source\repos\JUCBA\JUCBA\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\JANE ODUM\source\repos\JUCBA\JUCBA\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\JANE ODUM\source\repos\JUCBA\JUCBA\bin\roslyn\System.ValueTuple.dll
+C:\Users\JANE ODUM\source\repos\JUCBA\JUCBA\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\JANE ODUM\source\repos\JUCBA\JUCBA\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\JANE ODUM\source\repos\JUCBA\JUCBA\bin\roslyn\System.Xml.XPath.dll
+C:\Users\JANE ODUM\source\repos\JUCBA\JUCBA\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\JANE ODUM\source\repos\JUCBA\JUCBA\bin\roslyn\vbc.exe
+C:\Users\JANE ODUM\source\repos\JUCBA\JUCBA\bin\roslyn\vbc.exe.config
+C:\Users\JANE ODUM\source\repos\JUCBA\JUCBA\bin\roslyn\vbc.rsp
+C:\Users\JANE ODUM\source\repos\JUCBA\JUCBA\bin\roslyn\VBCSCompiler.exe
+C:\Users\JANE ODUM\source\repos\JUCBA\JUCBA\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\JANE ODUM\source\repos\JUCBA\JUCBA\bin\roslyn\vcsc.exe
+C:\Users\JANE ODUM\source\repos\JUCBA\JUCBA\bin\roslyn\vcsc.exe.config
+C:\Users\JANE ODUM\source\repos\JUCBA\JUCBA\bin\roslyn\vcsc.exe.conico
+C:\Users\JANE ODUM\source\repos\JUCBA\JUCBA\bin\roslyn\vcsc.ico
+C:\Users\JANE ODUM\source\repos\JUCBA\JUCBA\bin\roslyn\vcsi.exe
+C:\Users\JANE ODUM\source\repos\JUCBA\JUCBA\bin\roslyn\vcsi.exe.config
+C:\Users\JANE ODUM\source\repos\JUCBA\JUCBA\bin\roslyn\vcsi.exe.conico
+C:\Users\JANE ODUM\source\repos\JUCBA\JUCBA\bin\roslyn\vcsi.ico
+C:\Users\JANE ODUM\source\repos\JUCBA\JUCBA\bin\Antlr3.Runtime.dll
+C:\Users\JANE ODUM\source\repos\JUCBA\JUCBA\bin\EntityFramework.dll
+C:\Users\JANE ODUM\source\repos\JUCBA\JUCBA\bin\EntityFramework.SqlServer.dll
+C:\Users\JANE ODUM\source\repos\JUCBA\JUCBA\bin\JUCBA.Core.dll
+C:\Users\JANE ODUM\source\repos\JUCBA\JUCBA\bin\JUCBA.Data.dll
+C:\Users\JANE ODUM\source\repos\JUCBA\JUCBA\bin\JUCBA.Logic.dll
+C:\Users\JANE ODUM\source\repos\JUCBA\JUCBA\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\JANE ODUM\source\repos\JUCBA\JUCBA\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\JANE ODUM\source\repos\JUCBA\JUCBA\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\JANE ODUM\source\repos\JUCBA\JUCBA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\JANE ODUM\source\repos\JUCBA\JUCBA\bin\Microsoft.Owin.dll
+C:\Users\JANE ODUM\source\repos\JUCBA\JUCBA\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\JANE ODUM\source\repos\JUCBA\JUCBA\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\JANE ODUM\source\repos\JUCBA\JUCBA\bin\Microsoft.Owin.Security.dll
+C:\Users\JANE ODUM\source\repos\JUCBA\JUCBA\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\JANE ODUM\source\repos\JUCBA\JUCBA\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\JANE ODUM\source\repos\JUCBA\JUCBA\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\JANE ODUM\source\repos\JUCBA\JUCBA\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\JANE ODUM\source\repos\JUCBA\JUCBA\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\JANE ODUM\source\repos\JUCBA\JUCBA\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\JANE ODUM\source\repos\JUCBA\JUCBA\bin\Newtonsoft.Json.dll
+C:\Users\JANE ODUM\source\repos\JUCBA\JUCBA\bin\Owin.dll
+C:\Users\JANE ODUM\source\repos\JUCBA\JUCBA\bin\System.Web.Helpers.dll
+C:\Users\JANE ODUM\source\repos\JUCBA\JUCBA\bin\System.Web.Mvc.dll
+C:\Users\JANE ODUM\source\repos\JUCBA\JUCBA\bin\System.Web.Optimization.dll
+C:\Users\JANE ODUM\source\repos\JUCBA\JUCBA\bin\System.Web.Razor.dll
+C:\Users\JANE ODUM\source\repos\JUCBA\JUCBA\bin\System.Web.WebPages.Deployment.dll
+C:\Users\JANE ODUM\source\repos\JUCBA\JUCBA\bin\System.Web.WebPages.dll
+C:\Users\JANE ODUM\source\repos\JUCBA\JUCBA\bin\System.Web.WebPages.Razor.dll
+C:\Users\JANE ODUM\source\repos\JUCBA\JUCBA\bin\WebGrease.dll
+C:\Users\JANE ODUM\source\repos\JUCBA\JUCBA\bin\JUCBA.Core.pdb
+C:\Users\JANE ODUM\source\repos\JUCBA\JUCBA\bin\JUCBA.Core.dll.config
+C:\Users\JANE ODUM\source\repos\JUCBA\JUCBA\bin\JUCBA.Data.pdb
+C:\Users\JANE ODUM\source\repos\JUCBA\JUCBA\bin\JUCBA.Logic.pdb
+C:\Users\JANE ODUM\source\repos\JUCBA\JUCBA\bin\System.Web.Helpers.xml
+C:\Users\JANE ODUM\source\repos\JUCBA\JUCBA\bin\System.Web.Mvc.xml
+C:\Users\JANE ODUM\source\repos\JUCBA\JUCBA\bin\System.Web.Optimization.xml
+C:\Users\JANE ODUM\source\repos\JUCBA\JUCBA\bin\System.Web.Razor.xml
+C:\Users\JANE ODUM\source\repos\JUCBA\JUCBA\bin\System.Web.WebPages.xml
+C:\Users\JANE ODUM\source\repos\JUCBA\JUCBA\bin\System.Web.WebPages.Deployment.xml
+C:\Users\JANE ODUM\source\repos\JUCBA\JUCBA\bin\System.Web.WebPages.Razor.xml
+C:\Users\JANE ODUM\source\repos\JUCBA\JUCBA\bin\Newtonsoft.Json.xml
+C:\Users\JANE ODUM\source\repos\JUCBA\JUCBA\bin\Antlr3.Runtime.pdb
+C:\Users\JANE ODUM\source\repos\JUCBA\JUCBA\bin\EntityFramework.xml
+C:\Users\JANE ODUM\source\repos\JUCBA\JUCBA\bin\EntityFramework.SqlServer.xml
+C:\Users\JANE ODUM\source\repos\JUCBA\JUCBA\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\JANE ODUM\source\repos\JUCBA\JUCBA\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\JANE ODUM\source\repos\JUCBA\JUCBA\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\JANE ODUM\source\repos\JUCBA\JUCBA\bin\Microsoft.Owin.xml
+C:\Users\JANE ODUM\source\repos\JUCBA\JUCBA\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\JANE ODUM\source\repos\JUCBA\JUCBA\bin\Microsoft.Owin.Security.xml
+C:\Users\JANE ODUM\source\repos\JUCBA\JUCBA\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\JANE ODUM\source\repos\JUCBA\JUCBA\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\JANE ODUM\source\repos\JUCBA\JUCBA\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\JANE ODUM\source\repos\JUCBA\JUCBA\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\JANE ODUM\source\repos\JUCBA\JUCBA\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\JANE ODUM\source\repos\JUCBA\JUCBA\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\JANE ODUM\source\repos\JUCBA\JUCBA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\JANE ODUM\source\repos\JUCBA\JUCBA\obj\Debug\JUCBA.csprojAssemblyReference.cache
+C:\Users\JANE ODUM\source\repos\JUCBA\JUCBA\obj\Debug\JUCBA.csproj.CopyComplete
+C:\Users\JANE ODUM\source\repos\JUCBA\JUCBA\obj\Debug\JUCBA.dll
+C:\Users\JANE ODUM\source\repos\JUCBA\JUCBA\obj\Debug\JUCBA.pdb

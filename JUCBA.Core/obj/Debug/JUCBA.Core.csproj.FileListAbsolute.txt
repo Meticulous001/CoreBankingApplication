@@ -1,0 +1,109 @@
+C:\Users\Alienware\source\repos\JUCBA\JUCBA.Core\bin\Debug\EntityFramework.dll
+C:\Users\Alienware\source\repos\JUCBA\JUCBA.Core\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Alienware\source\repos\JUCBA\JUCBA.Core\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Alienware\source\repos\JUCBA\JUCBA.Core\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Alienware\source\repos\JUCBA\JUCBA.Core\bin\Debug\Microsoft.Owin.dll
+C:\Users\Alienware\source\repos\JUCBA\JUCBA.Core\bin\Debug\System.Web.Mvc.dll
+C:\Users\Alienware\source\repos\JUCBA\JUCBA.Core\bin\Debug\EntityFramework.xml
+C:\Users\Alienware\source\repos\JUCBA\JUCBA.Core\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Alienware\source\repos\JUCBA\JUCBA.Core\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Alienware\source\repos\JUCBA\JUCBA.Core\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Alienware\source\repos\JUCBA\JUCBA.Core\bin\Debug\Microsoft.Owin.xml
+C:\Users\Alienware\source\repos\JUCBA\JUCBA.Core\bin\Debug\System.Web.Mvc.xml
+C:\Users\Alienware\source\repos\JUCBA\JUCBA.Core\obj\Debug\JUCBA.Core.csproj.GenerateResource.cache
+C:\Users\Alienware\source\repos\JUCBA\JUCBA.Core\obj\Debug\JUCBA.Core.csproj.CoreCompileInputs.cache
+C:\Users\Alienware\source\repos\JUCBA\JUCBA.Core\obj\Debug\JUCBA.Core.csproj.CopyComplete
+C:\Users\Alienware\source\repos\JUCBA\JUCBA.Core\obj\Debug\JUCBA.Core.Migrations.mig1.resources
+C:\Users\Alienware\source\repos\JUCBA\JUCBA.Core\obj\Debug\JUCBA.Core.Migrations.mig2.resources
+C:\Users\Alienware\source\repos\JUCBA\JUCBA.Core\obj\Debug\JUCBA.Core.Migrations.mig3.resources
+C:\Users\Alienware\source\repos\JUCBA\JUCBA.Core\obj\Debug\JUCBA.Core.Migrations.mig4.resources
+C:\Users\Alienware\source\repos\JUCBA\JUCBA.Core\obj\Debug\JUCBA.Core.Migrations.mig5.resources
+C:\Users\Alienware\source\repos\JUCBA\JUCBA.Core\obj\Debug\JUCBA.Core.Migrations.mig6.resources
+C:\Users\Alienware\source\repos\JUCBA\JUCBA.Core\obj\Debug\JUCBA.Core.Migrations.mig7.resources
+C:\Users\Alienware\source\repos\JUCBA\JUCBA.Core\obj\Debug\JUCBA.Core.Migrations.mig8.resources
+C:\Users\Alienware\source\repos\JUCBA\JUCBA.Core\obj\Debug\JUCBA.Core.Migrations.mig9.resources
+C:\Users\Alienware\source\repos\JUCBA\JUCBA.Core\obj\Debug\JUCBA.Core.Migrations.mig10.resources
+C:\Users\Alienware\source\repos\JUCBA\JUCBA.Core\obj\Debug\JUCBA.Core.Migrations.mig11.resources
+C:\Users\Alienware\source\repos\JUCBA\JUCBA.Core\obj\Debug\JUCBA.Core.Migrations.mig12.resources
+C:\Users\Alienware\source\repos\JUCBA\JUCBA.Core\obj\Debug\JUCBA.Core.Migrations.mig13.resources
+C:\Users\Alienware\source\repos\JUCBA\JUCBA.Core\bin\Debug\JUCBA.Core.dll.config
+C:\Users\Alienware\source\repos\JUCBA\JUCBA.Core\bin\Debug\JUCBA.Core.dll
+C:\Users\Alienware\source\repos\JUCBA\JUCBA.Core\bin\Debug\JUCBA.Core.pdb
+C:\Users\Alienware\source\repos\JUCBA\JUCBA.Core\obj\Debug\JUCBA.Core.dll
+C:\Users\Alienware\source\repos\JUCBA\JUCBA.Core\obj\Debug\JUCBA.Core.pdb
+C:\Users\Alienware\source\repos\JUCBA\JUCBA.Core\obj\Debug\JUCBA.Core.csprojAssemblyReference.cache
+C:\Users\Alienware\source\repos\JUCBA\JUCBA.Core\obj\Debug\JUCBA.Core.Migrations._2019021719674380_mig14.resources
+D:\Downloads\JUCBA\JUCBA.Core\bin\Debug\JUCBA.Core.dll.config
+D:\Downloads\JUCBA\JUCBA.Core\bin\Debug\JUCBA.Core.dll
+D:\Downloads\JUCBA\JUCBA.Core\bin\Debug\JUCBA.Core.pdb
+D:\Downloads\JUCBA\JUCBA.Core\bin\Debug\EntityFramework.dll
+D:\Downloads\JUCBA\JUCBA.Core\bin\Debug\EntityFramework.SqlServer.dll
+D:\Downloads\JUCBA\JUCBA.Core\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\Downloads\JUCBA\JUCBA.Core\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Downloads\JUCBA\JUCBA.Core\bin\Debug\Microsoft.Owin.dll
+D:\Downloads\JUCBA\JUCBA.Core\bin\Debug\System.Web.Mvc.dll
+D:\Downloads\JUCBA\JUCBA.Core\bin\Debug\EntityFramework.xml
+D:\Downloads\JUCBA\JUCBA.Core\bin\Debug\EntityFramework.SqlServer.xml
+D:\Downloads\JUCBA\JUCBA.Core\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Downloads\JUCBA\JUCBA.Core\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Downloads\JUCBA\JUCBA.Core\bin\Debug\Microsoft.Owin.xml
+D:\Downloads\JUCBA\JUCBA.Core\bin\Debug\System.Web.Mvc.xml
+D:\Downloads\JUCBA\JUCBA.Core\obj\Debug\JUCBA.Core.csproj.CoreCompileInputs.cache
+D:\Downloads\JUCBA\JUCBA.Core\obj\Debug\JUCBA.Core.csproj.CopyComplete
+D:\Downloads\JUCBA\JUCBA.Core\obj\Debug\JUCBA.Core.dll
+D:\Downloads\JUCBA\JUCBA.Core\obj\Debug\JUCBA.Core.pdb
+D:\Downloads\JUCBA\JUCBA.Core\obj\Debug\JUCBA.Core.Migrations.ALL_CONTEXT.resources
+D:\Downloads\JUCBA\JUCBA.Core\obj\Debug\JUCBA.Core.csproj.GenerateResource.cache
+D:\Downloads\JUCBA\JUCBA.Core\obj\Debug\JUCBA.Core.csprojAssemblyReference.cache
+D:\Downloads\JUCBA\JUCBA.Core\obj\Debug\JUCBA.Core.Migrations.cot.resources
+D:\Downloads\JUCBA\JUCBA.Core\obj\Debug\JUCBA.Core.Migrations.payable.resources
+D:\Alienware\JUCBA\JUCBA.Core\bin\Debug\JUCBA.Core.dll.config
+D:\Alienware\JUCBA\JUCBA.Core\bin\Debug\JUCBA.Core.dll
+D:\Alienware\JUCBA\JUCBA.Core\bin\Debug\JUCBA.Core.pdb
+D:\Alienware\JUCBA\JUCBA.Core\bin\Debug\EntityFramework.dll
+D:\Alienware\JUCBA\JUCBA.Core\bin\Debug\EntityFramework.SqlServer.dll
+D:\Alienware\JUCBA\JUCBA.Core\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\Alienware\JUCBA\JUCBA.Core\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Alienware\JUCBA\JUCBA.Core\bin\Debug\Microsoft.Owin.dll
+D:\Alienware\JUCBA\JUCBA.Core\bin\Debug\System.Web.Mvc.dll
+D:\Alienware\JUCBA\JUCBA.Core\bin\Debug\EntityFramework.xml
+D:\Alienware\JUCBA\JUCBA.Core\bin\Debug\EntityFramework.SqlServer.xml
+D:\Alienware\JUCBA\JUCBA.Core\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Alienware\JUCBA\JUCBA.Core\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Alienware\JUCBA\JUCBA.Core\bin\Debug\Microsoft.Owin.xml
+D:\Alienware\JUCBA\JUCBA.Core\bin\Debug\System.Web.Mvc.xml
+D:\Alienware\JUCBA\JUCBA.Core\obj\Debug\JUCBA.Core.csprojAssemblyReference.cache
+D:\Alienware\JUCBA\JUCBA.Core\obj\Debug\JUCBA.Core.Migrations.ALL_CONTEXT.resources
+D:\Alienware\JUCBA\JUCBA.Core\obj\Debug\JUCBA.Core.Migrations.cot.resources
+D:\Alienware\JUCBA\JUCBA.Core\obj\Debug\JUCBA.Core.Migrations.payable.resources
+D:\Alienware\JUCBA\JUCBA.Core\obj\Debug\JUCBA.Core.csproj.GenerateResource.cache
+D:\Alienware\JUCBA\JUCBA.Core\obj\Debug\JUCBA.Core.csproj.CopyComplete
+D:\Alienware\JUCBA\JUCBA.Core\obj\Debug\JUCBA.Core.dll
+D:\Alienware\JUCBA\JUCBA.Core\obj\Debug\JUCBA.Core.pdb
+C:\Users\JANE ODUM\source\repos\JUCBA\JUCBA.Core\bin\Debug\JUCBA.Core.dll.config
+C:\Users\JANE ODUM\source\repos\JUCBA\JUCBA.Core\bin\Debug\JUCBA.Core.dll
+C:\Users\JANE ODUM\source\repos\JUCBA\JUCBA.Core\bin\Debug\JUCBA.Core.pdb
+C:\Users\JANE ODUM\source\repos\JUCBA\JUCBA.Core\bin\Debug\EntityFramework.dll
+C:\Users\JANE ODUM\source\repos\JUCBA\JUCBA.Core\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\JANE ODUM\source\repos\JUCBA\JUCBA.Core\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\JANE ODUM\source\repos\JUCBA\JUCBA.Core\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\JANE ODUM\source\repos\JUCBA\JUCBA.Core\bin\Debug\Microsoft.Owin.dll
+C:\Users\JANE ODUM\source\repos\JUCBA\JUCBA.Core\bin\Debug\System.Web.Mvc.dll
+C:\Users\JANE ODUM\source\repos\JUCBA\JUCBA.Core\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\JANE ODUM\source\repos\JUCBA\JUCBA.Core\bin\Debug\EntityFramework.xml
+C:\Users\JANE ODUM\source\repos\JUCBA\JUCBA.Core\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\JANE ODUM\source\repos\JUCBA\JUCBA.Core\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\JANE ODUM\source\repos\JUCBA\JUCBA.Core\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\JANE ODUM\source\repos\JUCBA\JUCBA.Core\bin\Debug\Microsoft.Owin.xml
+C:\Users\JANE ODUM\source\repos\JUCBA\JUCBA.Core\bin\Debug\System.Web.Mvc.xml
+C:\Users\JANE ODUM\source\repos\JUCBA\JUCBA.Core\obj\Debug\JUCBA.Core.Migrations.ALL_CONTEXT.resources
+C:\Users\JANE ODUM\source\repos\JUCBA\JUCBA.Core\obj\Debug\JUCBA.Core.Migrations.cot.resources
+C:\Users\JANE ODUM\source\repos\JUCBA\JUCBA.Core\obj\Debug\JUCBA.Core.Migrations.payable.resources
+C:\Users\JANE ODUM\source\repos\JUCBA\JUCBA.Core\obj\Debug\JUCBA.Core.csproj.GenerateResource.cache
+C:\Users\JANE ODUM\source\repos\JUCBA\JUCBA.Core\obj\Debug\JUCBA.Core.csproj.CopyComplete
+C:\Users\JANE ODUM\source\repos\JUCBA\JUCBA.Core\obj\Debug\JUCBA.Core.dll
+C:\Users\JANE ODUM\source\repos\JUCBA\JUCBA.Core\obj\Debug\JUCBA.Core.pdb
+C:\Users\JANE ODUM\source\repos\JUCBA\JUCBA.Core\obj\Debug\JUCBA.Core.csprojAssemblyReference.cache
+C:\Users\JANE ODUM\source\repos\JUCBA\JUCBA.Core\obj\Debug\JUCBA.Core.Migrations.App.resources
+C:\Users\JANE ODUM\source\repos\JUCBA\JUCBA.Core\obj\Debug\JUCBA.Core.Migrations.RequiredRemoved.resources
+C:\Users\JANE ODUM\source\repos\JUCBA\JUCBA.Core\obj\Debug\JUCBA.Core.Migrations.Muiz.resources
